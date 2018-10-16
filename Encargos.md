@@ -34,7 +34,7 @@
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_4bim_Secc4)*
 
 
 ---
@@ -64,7 +64,7 @@ Se debe poner especial atención al factor estético de la composición.
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_4bim_Secc4)*
 
 
 ---
@@ -109,7 +109,7 @@ Se debe poner especial atención al factor estético de la composición.
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_4bim_Secc4)*
 
 ---
 ## Encargo 04 (E04): patronInteractivo
@@ -140,7 +140,7 @@ Se debe poner especial atención al factor estético de la composición.
   * **Especificaciones:**
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_4bim_Secc4)*
 
 ---
 ## Examen: Poster Interactivo
@@ -203,4 +203,4 @@ No se aceptan entregas tardías
 ###### **Especificaciones:**
 Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_4bim_Secc4)*
