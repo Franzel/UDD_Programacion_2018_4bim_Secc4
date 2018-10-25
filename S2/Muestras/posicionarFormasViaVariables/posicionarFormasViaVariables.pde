@@ -1,9 +1,9 @@
 float tamX;
 float tamY;
 void setup() {
-  size(400, 400);
-  tamX = width/4;
-  tamY = height/4;
+  size(800, 400);
+  tamX = 100;
+  tamY = 100;
 }
 
 void draw() {
