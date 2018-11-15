@@ -9,7 +9,8 @@ void setup() {
 void draw() {
   background(0);
   for (int i=0; i<nElementos; i++) {
-    stroke(2*i);
-    line(0, 5*i, width, 5*i);
+    stroke(5*i, 5*i, 5*i);
+    strokeWeight(3);
+    line(0, 10*i, width, 10*i);
   }
 }
